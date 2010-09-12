@@ -4,18 +4,18 @@ package org.wmfc.assets.defaultImages
 	{
 		[Bindable]
 		[Embed (source="icones.swf#icoAlerta")]
-		public static var icoAlerta:Class;	
+		public static var icoAlert:Class;	
 		
 		[Bindable]
 		[Embed (source="icones.swf#icoConfirmacao")]
-		public static var icoConfirmacao:Class;	
+		public static var icoConfirmation:Class;	
 		
 		[Bindable]
 		[Embed (source="icones.swf#icoErro")]
-		public static var icoErro:Class;	
+		public static var icoError:Class;	
 		
 		[Bindable]
 		[Embed (source="icones.swf#icoInfo")]
-		public static var icoInformacao:Class;	
+		public static var icoInformation:Class;	
 	}
 }
